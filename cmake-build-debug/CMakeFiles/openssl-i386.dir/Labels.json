@@ -1,0 +1,51 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "/Users/palmerc/Development/openssl/cmake-build-debug/CMakeFiles/openssl-i386"
+		},
+		
+		{
+			"file" : "/Users/palmerc/Development/openssl/cmake-build-debug/CMakeFiles/openssl-i386.rule"
+		},
+		
+		{
+			"file" : "/Users/palmerc/Development/openssl/cmake-build-debug/CMakeFiles/openssl-i386-complete.rule"
+		},
+		
+		{
+			"file" : "/Users/palmerc/Development/openssl/cmake-build-debug/third_party/Stamp/openssl-i386/openssl-i386-install.rule"
+		},
+		
+		{
+			"file" : "/Users/palmerc/Development/openssl/cmake-build-debug/third_party/Stamp/openssl-i386/openssl-i386-mkdir.rule"
+		},
+		
+		{
+			"file" : "/Users/palmerc/Development/openssl/cmake-build-debug/third_party/Stamp/openssl-i386/openssl-i386-download.rule"
+		},
+		
+		{
+			"file" : "/Users/palmerc/Development/openssl/cmake-build-debug/third_party/Stamp/openssl-i386/openssl-i386-update.rule"
+		},
+		
+		{
+			"file" : "/Users/palmerc/Development/openssl/cmake-build-debug/third_party/Stamp/openssl-i386/openssl-i386-patch.rule"
+		},
+		
+		{
+			"file" : "/Users/palmerc/Development/openssl/cmake-build-debug/third_party/Stamp/openssl-i386/openssl-i386-configure.rule"
+		},
+		
+		{
+			"file" : "/Users/palmerc/Development/openssl/cmake-build-debug/third_party/Stamp/openssl-i386/openssl-i386-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "openssl-i386" ],
+		"name" : "openssl-i386"
+	}
+}

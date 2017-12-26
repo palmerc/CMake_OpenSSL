@@ -1,0 +1,2 @@
+Options: 
+CMake: 3.8.2@/Users/palmerc/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/172.3968.17/CLion.app/Contents/bin/cmake/bin/cmake

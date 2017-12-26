@@ -1,0 +1,51 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "/Users/palmerc/Development/openssl/cmake-build-debug/CMakeFiles/openssl-arm64"
+		},
+		
+		{
+			"file" : "/Users/palmerc/Development/openssl/cmake-build-debug/CMakeFiles/openssl-arm64.rule"
+		},
+		
+		{
+			"file" : "/Users/palmerc/Development/openssl/cmake-build-debug/CMakeFiles/openssl-arm64-complete.rule"
+		},
+		
+		{
+			"file" : "/Users/palmerc/Development/openssl/cmake-build-debug/third_party/Stamp/openssl-arm64/openssl-arm64-install.rule"
+		},
+		
+		{
+			"file" : "/Users/palmerc/Development/openssl/cmake-build-debug/third_party/Stamp/openssl-arm64/openssl-arm64-mkdir.rule"
+		},
+		
+		{
+			"file" : "/Users/palmerc/Development/openssl/cmake-build-debug/third_party/Stamp/openssl-arm64/openssl-arm64-download.rule"
+		},
+		
+		{
+			"file" : "/Users/palmerc/Development/openssl/cmake-build-debug/third_party/Stamp/openssl-arm64/openssl-arm64-update.rule"
+		},
+		
+		{
+			"file" : "/Users/palmerc/Development/openssl/cmake-build-debug/third_party/Stamp/openssl-arm64/openssl-arm64-patch.rule"
+		},
+		
+		{
+			"file" : "/Users/palmerc/Development/openssl/cmake-build-debug/third_party/Stamp/openssl-arm64/openssl-arm64-configure.rule"
+		},
+		
+		{
+			"file" : "/Users/palmerc/Development/openssl/cmake-build-debug/third_party/Stamp/openssl-arm64/openssl-arm64-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "openssl-arm64" ],
+		"name" : "openssl-arm64"
+	}
+}

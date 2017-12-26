@@ -1,0 +1,51 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "/Users/palmerc/Development/openssl/cmake-build-debug/CMakeFiles/openssl_armv7s"
+		},
+		
+		{
+			"file" : "/Users/palmerc/Development/openssl/cmake-build-debug/CMakeFiles/openssl_armv7s.rule"
+		},
+		
+		{
+			"file" : "/Users/palmerc/Development/openssl/cmake-build-debug/CMakeFiles/openssl_armv7s-complete.rule"
+		},
+		
+		{
+			"file" : "/Users/palmerc/Development/openssl/cmake-build-debug/third_party/Stamp/openssl_armv7s/openssl_armv7s-install.rule"
+		},
+		
+		{
+			"file" : "/Users/palmerc/Development/openssl/cmake-build-debug/third_party/Stamp/openssl_armv7s/openssl_armv7s-mkdir.rule"
+		},
+		
+		{
+			"file" : "/Users/palmerc/Development/openssl/cmake-build-debug/third_party/Stamp/openssl_armv7s/openssl_armv7s-download.rule"
+		},
+		
+		{
+			"file" : "/Users/palmerc/Development/openssl/cmake-build-debug/third_party/Stamp/openssl_armv7s/openssl_armv7s-update.rule"
+		},
+		
+		{
+			"file" : "/Users/palmerc/Development/openssl/cmake-build-debug/third_party/Stamp/openssl_armv7s/openssl_armv7s-patch.rule"
+		},
+		
+		{
+			"file" : "/Users/palmerc/Development/openssl/cmake-build-debug/third_party/Stamp/openssl_armv7s/openssl_armv7s-configure.rule"
+		},
+		
+		{
+			"file" : "/Users/palmerc/Development/openssl/cmake-build-debug/third_party/Stamp/openssl_armv7s/openssl_armv7s-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "openssl_armv7s" ],
+		"name" : "openssl_armv7s"
+	}
+}

@@ -1,0 +1,13 @@
+# Target labels
+ openssl-armv7s
+# Source files and their labels
+/Users/palmerc/Development/openssl/cmake-build-debug/CMakeFiles/openssl-armv7s
+/Users/palmerc/Development/openssl/cmake-build-debug/CMakeFiles/openssl-armv7s.rule
+/Users/palmerc/Development/openssl/cmake-build-debug/CMakeFiles/openssl-armv7s-complete.rule
+/Users/palmerc/Development/openssl/cmake-build-debug/third_party/Stamp/openssl-armv7s/openssl-armv7s-install.rule
+/Users/palmerc/Development/openssl/cmake-build-debug/third_party/Stamp/openssl-armv7s/openssl-armv7s-mkdir.rule
+/Users/palmerc/Development/openssl/cmake-build-debug/third_party/Stamp/openssl-armv7s/openssl-armv7s-download.rule
+/Users/palmerc/Development/openssl/cmake-build-debug/third_party/Stamp/openssl-armv7s/openssl-armv7s-update.rule
+/Users/palmerc/Development/openssl/cmake-build-debug/third_party/Stamp/openssl-armv7s/openssl-armv7s-patch.rule
+/Users/palmerc/Development/openssl/cmake-build-debug/third_party/Stamp/openssl-armv7s/openssl-armv7s-configure.rule
+/Users/palmerc/Development/openssl/cmake-build-debug/third_party/Stamp/openssl-armv7s/openssl-armv7s-build.rule

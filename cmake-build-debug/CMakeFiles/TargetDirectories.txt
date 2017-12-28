@@ -1,5 +1,0 @@
-/Users/palmerc/Development/openssl/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/palmerc/Development/openssl/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/palmerc/Development/openssl/cmake-build-debug/CMakeFiles/openssl_x86_64.dir
-/Users/palmerc/Development/openssl/cmake-build-debug/CMakeFiles/openssl_install.dir
-/Users/palmerc/Development/openssl/cmake-build-debug/CMakeFiles/openssl_arm64.dir

@@ -113,10 +113,6 @@ function( BuildOpenSSL )
         set_source_files_properties( ${CMAKE_RUN} PROPERTIES SYMBOLIC true )
 
         set( OPENSSL_TARBALL_PATH ${OPENSSL_SOURCE_DIR}/${OPENSSL_TARBALL} )
-        set( TIME_CONDITION )
-        if( EXISTS ${OPENSSL_TARBALL_PATH} )
-            set( TIME_CONDITION --time-cond ${OPENSSL_TARBALL_PATH} )
-        endif()
 
         if( OVERRIDE_TIMESTAMP_CHECK )
             set( OVERRIDE_TIMESTAMP test -s ${OPENSSL_TARBALL} || )
@@ -126,7 +122,7 @@ function( BuildOpenSSL )
         add_custom_command( OUTPUT ${OPENSSL_TARBALL_PATH}
                 WORKING_DIRECTORY ${OPENSSL_SOURCE_DIR}
                 DEPENDS ${CMAKE_RUN}
-                COMMAND ${OVERRIDE_TIMESTAMP} curl ${TIME_CONDITION} -o ${OPENSSL_TARBALL} --silent --location ${OPENSSL_URL}
+                COMMAND ${OVERRIDE_TIMESTAMP} curl --time-cond ${OPENSSL_TARBALL_PATH} -o ${OPENSSL_TARBALL} --silent --location ${OPENSSL_URL}
                 COMMENT "Downloading OpenSSL source, if needed, for ${OPENSSL_TARGET}" )
 
         ### Untar and build

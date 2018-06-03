@@ -1,3 +1,7 @@
+## LibreSSL
+
+If you haven't heard of [LibreSSL](http://www.libressl.org) it is a drop-in replacement for OpenSSL forked from OpenSSL and builds with CMake. Consider using LibreSSL before using OpenSSL with CMake.
+
 ## Building OpenSSL for iOS
 
 I've seen a number of solutions to getting OpenSSL built for iOS. I wanted a simple, standalone way of getting an OpenSSL library into an Xcode project without downloading pre-built binaries or adopting a dependency manager like Hunter.
